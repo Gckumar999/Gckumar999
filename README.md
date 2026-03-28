@@ -21,5 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gckumar999&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+<p align="center">
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Gckumar999&icon=0&color=2)](https://visitcount.itsvg.in)
