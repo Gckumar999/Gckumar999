@@ -1,5 +1,139 @@
 # 💫 About Me:
-🚀 Mobile App Developer | Problem Solver<br><br>I’m a mobile app developer with strong experience in building scalable and high-performance applications. I enjoy working on real-world problems, especially in areas like chat systems, search optimization, and efficient data handling.<br><br>💡 I focus on:<br><br>* Writing clean, maintainable code<br>* Optimizing performance and memory usage<br>* Solving algorithmic challenges (DSA & problem solving)<br><br>📱 Tech I work with:<br><br>* Xamarin (iOS & Android)<br>* C# / .NET<br>* REST APIs & backend integrations<br><br>🔍 Currently improving:<br><br>* Data structures & algorithms<br>* System design & architecture<br><br>I like breaking down complex problems into simple solutions and continuously improving my coding skills.<br>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Developer Profile</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f172a, #1e293b);
+            color: #fff;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+
+        .card {
+            background: #1e293b;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .highlight {
+            color: #38bdf8;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #cbd5f5;
+        }
+
+        .section {
+            margin-top: 25px;
+        }
+
+        .section h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #38bdf8;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            background: #0f172a;
+            margin-bottom: 10px;
+            padding: 12px 15px;
+            border-radius: 10px;
+            transition: 0.2s;
+        }
+
+        ul li:hover {
+            background: #334155;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="card">
+
+        <h1>🚀 <span class="highlight">Mobile App Developer</span> | Problem Solver</h1>
+
+        <p>
+            I’m a mobile app developer with strong experience in building scalable and high-performance applications.
+            I enjoy solving real-world problems, especially in areas like <strong>chat systems</strong>,
+            <strong>search optimization</strong>, and <strong>efficient data handling</strong>.
+        </p>
+
+        <div class="section">
+            <h2>💡 What I Focus On</h2>
+            <ul>
+                <li>✔ Writing clean, maintainable code</li>
+                <li>✔ Optimizing performance and memory usage</li>
+                <li>✔ Solving algorithmic challenges (DSA & problem solving)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>📱 Tech Stack</h2>
+            <ul>
+                <li>Xamarin (iOS & Android)</li>
+                <li>C# / .NET</li>
+                <li>REST APIs & Backend Integrations</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>🔍 Currently Improving</h2>
+            <ul>
+                <li>Data Structures & Algorithms</li>
+                <li>System Design & Architecture</li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            ⚡ Turning complex problems into simple solutions
+        </div>
+
+    </div>
+</div>
+
+</body>
+
 
 
 ## 🌐 Socials:
