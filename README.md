@@ -21,10 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gckumar999&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Gckumar999&icon=0&color=2)](https://visitcount.itsvg.in)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
